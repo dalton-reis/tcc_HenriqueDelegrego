@@ -1,3 +1,5 @@
 # Anotações das reuniões  
 
-## XXXX/XX/XX  
+## 2022/08/18  
+
+Concersamos sobre assuntos para TCC2. Chegamos a um assunto para Termo de TCC1.
