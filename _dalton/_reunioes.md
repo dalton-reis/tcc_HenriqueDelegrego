@@ -12,3 +12,7 @@ Concersamos sobre assuntos para TCC2. Chegamos a um assunto para Termo de TCC1.
 
 [2022-09-05_reuniao](2022-09-05_reuniao.pdf "2022-09-05_reuniao")  
 [2022-09-05_reuniao_PreProjeto](2022-09-05_reuniao_PreProjeto.pdf "2022-09-05_reuniao_PreProjeto")  
+
+## 2022-10-01 - 19:05
+
+Primeira revisão do pré-projeto: [2022-09-30_PreProjeto_Dalton](2022-09-30_PreProjeto_Dalton.pdf "2022-09-30_PreProjeto_Dalton")  
