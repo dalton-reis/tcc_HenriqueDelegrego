@@ -26,3 +26,9 @@ Segunda revisão do pré-projeto. Ainda tem ajsutes para serem feitos. CUIDADO c
 
 Pré-projeto: versão entregue para banca.
 [2022-10-12_PreProjeto_Dalton](2022-10-12_PreProjeto_Dalton.pdf "2022-10-12_PreProjeto_Dalton")  
+
+## 2022-11-08 - 17:30
+
+Defesa do Pré-projeto.  
+[2022-11-08_Slides.pdf](2022-11-08_Slides.pdf "2022-11-08_Slides.pdf")  
+[2022-11-08_Slides.mp4](2022-11-08_Slides.mp4 "2022-11-08_Slides.mp4")  
