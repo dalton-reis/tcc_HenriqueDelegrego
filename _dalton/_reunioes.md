@@ -37,14 +37,17 @@ Defesa do Pré-projeto.
 
 ### Cenário
 
-a) Válvula
-b) Placa Main
-c) CP-500 com fita K7
+a) Válvula  
+b) Placa Main  
+c) CP-500 com fita K7  
 
-  .. não Quiz
+  .. não Quiz  
 
 Exemplo tutorial:
 [TCCBrunoVigentas](https://github.com/gcgfurb/tcc_BrunoGeislerVigentas/blob/main/Textos/tcc_bcc_2021_1_bvigentas_BrunoGeiserVigentas-VF.pdf)
+
+![Alt text](TelaMenu.png)  
+![Alt text](TelaAcervo.png)  
 
 #### Telas
 
@@ -70,7 +73,6 @@ Versão do Unity (TLS):
 
 #### Geral
 
-Tentar fazer igual ao 
 
 #### Específico
 
