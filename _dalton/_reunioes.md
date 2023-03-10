@@ -73,10 +73,20 @@ Versão do Unity (TLS):
 
 #### Geral
 
-
 #### Específico
 
 a) Vuforia
 09/03: baixar última versão Unity LTS. Refazer o HelloWorld com Vuforia 1 marcador + cubo).  
 
 b) Testar novos marcadores de acordo com o cenário.  
+
+## 2023-03-10 - 09:25
+
+Tentou fazer a placa ser um Tagert Image mas não conseguiu. A imagem da placa deu 4 estrelas no Vuforia.  
+Definimos em ter 3 cenários:
+
+- Cenario1: interagir com a placa MainBoard por botões virtuais para exibir informações.  
+- Cenario2: animação entre CP-500 e tocar de fita para mostrar transferência de dados.  
+- Cenario3: mover a válvula para poder "soltar" o inseto e resolver o problema do Bug. Ter uma imagem com um código com erro matriz "Me ajdue, meu código está com erro ... socorro :-)", quando tirar válvula fica preto, e depois o código funciona .. pode escrever uma mensagem agradecendo por ter arrumado o problema.  
+
+![Cenario03_valvula](Cenario03_valvula.png)  
