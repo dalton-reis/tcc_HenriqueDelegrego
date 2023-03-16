@@ -90,3 +90,13 @@ Definimos em ter 3 cenários:
 - Cenario3: mover a válvula para poder "soltar" o inseto e resolver o problema do Bug. Ter uma imagem com um código com erro matriz "Me ajdue, meu código está com erro ... socorro :-)", quando tirar válvula fica preto, e depois o código funciona .. pode escrever uma mensagem agradecendo por ter arrumado o problema.  
 
 ![Cenario03_valvula](Cenario03_valvula.png)  
+
+## 2023-03-16 - 16:45
+
+Fechamos os cenários. Deixe a madeira com o Henrique.  
+![Madeira](Madeira.png)  
+![Cenario](Cenario.png)  
+
+Vai implementar o primeiro cenário.  
+O prof. Migue autorizou pegar o CP-200 e gravador para fazer o cenário 2.  
+Dalton: achar uma válvula.  
