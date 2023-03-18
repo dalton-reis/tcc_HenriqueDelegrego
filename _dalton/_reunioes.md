@@ -100,3 +100,5 @@ Fechamos os cenários. Deixe a madeira com o Henrique.
 Vai implementar o primeiro cenário.  
 O prof. Migue autorizou pegar o CP-200 e gravador para fazer o cenário 2.  
 Dalton: achar uma válvula.  
+
+Resposta para O que é um bug que se tornou recurso de um programa? por Ericles Lima
