@@ -109,5 +109,5 @@ Tem primeiro protótipo da cena_1.
 Seguir para cena_3 (válvula).  
 Fazer o Painel de mensagens usando TCC_Ricardo.  
 
-Disse que pode usar o TCC do Ricardo: [AnimAR](../AnimAR)
+Disse que pode usar o TCC do Ricardo: [AnimAR](../AnimAR/)  
 [Monografia](../AnimAR/2018_1_ricardo-filipe-reiter_monografia.pdf)  
