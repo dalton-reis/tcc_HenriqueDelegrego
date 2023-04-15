@@ -102,3 +102,11 @@ O prof. Migue autorizou pegar o CP-200 e gravador para fazer o cenário 2.
 Dalton: achar uma válvula.  
 
 Resposta para O que é um bug que se tornou recurso de um programa? por Ericles Lima
+
+## 2023-04-15 - 11:26
+
+Tem primeiro protótipo da cena_1.  
+Seguir para cena_3 (válvula).  
+
+Disse que pode usar o TCC do Ricardo: [AnimAR](../AnimAR)
+[Monografia](../AnimAR/2018_1_ricardo-filipe-reiter_monografia.pdf)  
