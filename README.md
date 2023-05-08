@@ -6,3 +6,9 @@ Título: XXXXX
 Membros da Banca Examinadora: XXXX - XXXXX  
 
 ----
+
+## Acervo
+
+### [Placa Mãe](Acervo/placaMae.md)  
+
+### [Válvula](Acervo/valvula.md)  

@@ -111,3 +111,10 @@ Fazer o Painel de mensagens usando TCC_Ricardo.
 
 Disse que pode usar o TCC do Ricardo: [AnimAR](../AnimAR/)  
 [Monografia](../AnimAR/2018_1_ricardo-filipe-reiter_monografia.pdf)  
+
+## 2023-05-08 - 18:42
+
+Precisa terminar alguns pequenos ajustes de código no cenário placaMae.  
+Prazo de uma semana para terminar programação do cenário válvula.  
+```Dalton```: comprar a lâmpada que vai ser usada como válvula. De preferência com uma aparência de válvula, 12 volts e no sugar do soquete ser de pinos.  
+```Dalton```: SonoOff - achar de uma baia só. Achar código Unity (C#) para SonoOff.  
