@@ -118,3 +118,7 @@ Precisa terminar alguns pequenos ajustes de código no cenário placaMae.
 Prazo de uma semana para terminar programação do cenário válvula.  
 ```Dalton```: comprar a lâmpada que vai ser usada como válvula. De preferência com uma aparência de válvula, 12 volts e no sugar do soquete ser de pinos.  
 ```Dalton```: SonoOff - achar de uma baia só. Achar código Unity (C#) para SonoOff.  
+
+## 2023-05-09 - 10:05
+
+<video src="valvulas.mp4" controls title="Title"></video>  
