@@ -1,0 +1,354 @@
+{
+  "Config": {
+    "Build": {
+      "Board": "esp8266:esp8266:generic:xtal=80,vt=flash,exception=disabled,stacksmash=disabled,ssl=all,mmu=3232,non32xfer=fast,ResetMethod=nodemcu,CrystalFreq=26,FlashFreq=40,FlashMode=dout,eesz=1M64,led=2,sdk=nonosdk_190703,ip=lm2f,dbg=Disabled,lvl=None____,wipe=none,baud=115200"
+    }
+  },
+  "Version": "2",
+  "Product": "Visuino Pro - Visual Arduino Programming",
+  "Content": "OpenWire Diagram",
+  "Units": [
+    {
+      "Type": "Diagram",
+      "Name": "__OpenWireRootUnit__",
+      "*": [
+        {
+          "X": 256,
+          "Name": "Arduino",
+          "Instance": {
+            "AnalogInput": {
+              "*": [
+                {
+                  "+": "TArduinoESP8266AnalogInputChannel"
+                }
+              ]
+            },
+            "Serial": {
+              "*": [
+                {
+                  "InputPin": {
+                    "SourcePins": [
+                      {
+                        "ID": "__OpenWireRootUnit__.CharToText1.OutputPin"
+                      }
+                    ]
+                  },
+                  "+": "TArduinoESP8266HardwareSerial"
+                },
+                {
+                  "+": "TArduinoESP8266HardwareSerial1"
+                }
+              ]
+            },
+            "+": "TArduinoBoard",
+            "Modules": {
+              "*": [
+                {
+                  "AccessPoint": {
+                    "SSID": "DaltonTCC",
+                    "Password": ""
+                  },
+                  "HostName": "",
+                  "+": "TArduinoESP8266WiFiModule",
+                  "ESPNow": {
+                    "PrimaryKey": {
+                      "_Data": ""
+                    }
+                  },
+                  "Time": {
+                    "NetworkTime": {
+                      "TimeZoneOffset": 0,
+                      "Servers": {
+                        "*": [
+                          {
+                            "+": "TArduinoESP8266WiFiNetworkTimeServer1"
+                          },
+                          {
+                            "+": "TArduinoESP8266WiFiNetworkTimeServer2"
+                          },
+                          {
+                            "+": "TArduinoESP8266WiFiNetworkTimeServer3"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  "Sockets": {
+                    "*": [
+                      {
+                        "Name": "TCP Server1 [8080]",
+                        "OutputPin": {
+                          "SinkPins": [
+                            {
+                              "ID": "__OpenWireRootUnit__.CharToText1.InputPin"
+                            }
+                          ]
+                        },
+                        "+": "TArduinoWiFiTCPServerSocket",
+                        "Port": 8080
+                      }
+                    ]
+                  }
+                },
+                {
+                  "+": "TArduinoEEPROMModule"
+                },
+                {
+                  "+": "TArduinoPWMConfigModule"
+                },
+                {
+                  "+": "TArduinoESP8266ProcessorModule"
+                },
+                {
+                  "+": "TArduinoESP8266WatchdogTimerModule"
+                }
+              ]
+            },
+            "I2CChannels": {
+              "*": [
+                {
+                  "+": "TArduinoESP8266_Generic_I2C"
+                }
+              ]
+            },
+            "Digital": {
+              "*": [
+                {
+                  "+": "TArduinoBasicDigitalOpenDrainPWMInterruptChannel"
+                },
+                {
+                  "+": "TArduinoBasicDigitalOpenDrainPWMSerial0InterruptChannel"
+                },
+                {
+                  "+": "TArduinoBasicDigitalOpenDrainPWMSerial1InterruptChannel"
+                },
+                {
+                  "+": "TArduinoBasicDigitalOpenDrainPWMSerial0InterruptChannel"
+                },
+                {
+                  "+": "TArduinoBasicDigitalOpenDrainPWMInterruptChannel"
+                },
+                {
+                  "DigitalInputPin": {
+                    "SourcePin": {
+                      "ID": "__OpenWireRootUnit__.DigitalMultiMerger1.OutputPin"
+                    }
+                  },
+                  "+": "TArduinoBasicDigitalOpenDrainPWMInterruptChannel"
+                },
+                {
+                  "+": "TArduinoBasicDigitalOpenDrainPWMInterruptChannel"
+                },
+                {
+                  "+": "TArduinoBasicDigitalOpenDrainPWMInterruptChannel"
+                },
+                {
+                  "+": "TArduinoBasicDigitalOpenDrainPWMInterruptChannel"
+                },
+                {
+                  "+": "TArduinoBasicDigitalOpenDrainPWMInterruptChannel"
+                },
+                {
+                  "+": "TArduinoBasicDigitalOpenDrainPWMInterruptChannel"
+                },
+                {
+                  "+": "TArduinoBasicDigitalOpenDrainPWMInterruptChannel"
+                },
+                {
+                  "+": "TArduinoBasicDigitalOpenDrainPWMSPI0InterruptChannel"
+                },
+                {
+                  "+": "TArduinoBasicDigitalOpenDrainPWMSPI0InterruptChannel"
+                },
+                {
+                  "+": "TArduinoBasicDigitalOpenDrainPWMSPI0InterruptChannel"
+                },
+                {
+                  "+": "TArduinoBasicDigitalOpenDrainPWMInterruptChannel"
+                },
+                {
+                  "+": "TArduinoBasicDigitalPWMChannel"
+                }
+              ]
+            },
+            "SPIChannels": {
+              "*": [
+                {
+                  "+": "TArduinoSPI"
+                }
+              ]
+            },
+            "BoardType": "Generic ESP8266"
+          },
+          "*": [],
+          "Type": "Component",
+          "Y": 256
+        },
+        {
+          "X": 928,
+          "Name": "DigitalValue1",
+          "Instance": {
+            "ClockInputPin": {
+              "SourcePins": [
+                {
+                  "ID": "__OpenWireRootUnit__.CompareValue1.OutputPin"
+                }
+              ]
+            },
+            "Value": true,
+            "OutputPin": {
+              "SinkPins": [
+                {
+                  "Name": "__OpenWireRootUnit__.DigitalMultiMerger1.InputPins.Pin [0]",
+                  "ID": "__OpenWireRootUnit__.DigitalMultiMerger1.InputPins._Pin0"
+                }
+              ]
+            },
+            "+": "TArduinoBooleanValue"
+          },
+          "*": [],
+          "Type": "Component",
+          "Y": 288
+        },
+        {
+          "X": 928,
+          "Name": "DigitalValue2",
+          "Instance": {
+            "ClockInputPin": {
+              "SourcePins": [
+                {
+                  "ID": "__OpenWireRootUnit__.CompareValue2.OutputPin"
+                }
+              ]
+            },
+            "OutputPin": {
+              "SinkPins": [
+                {
+                  "Name": "__OpenWireRootUnit__.DigitalMultiMerger1.InputPins.Pin [1]",
+                  "ID": "__OpenWireRootUnit__.DigitalMultiMerger1.InputPins._Pin1"
+                }
+              ]
+            },
+            "+": "TArduinoBooleanValue"
+          },
+          "*": [],
+          "Type": "Component",
+          "Y": 336
+        },
+        {
+          "X": 1120,
+          "Name": "DigitalMultiMerger1",
+          "Instance": {
+            "InputPins": {
+              "Form": "__OpenWireRootUnit__",
+              "Pins": [
+                {
+                  "Type": "ptSink",
+                  "SourcePin": {
+                    "ID": "__OpenWireRootUnit__.DigitalValue1.OutputPin"
+                  }
+                },
+                {
+                  "Type": "ptSink",
+                  "SourcePin": {
+                    "ID": "__OpenWireRootUnit__.DigitalValue2.OutputPin"
+                  }
+                }
+              ]
+            },
+            "OutputPin": {
+              "SinkPins": [
+                {
+                  "Name": "__OpenWireRootUnit__.Arduino.Digital[5].DigitalInputPin",
+                  "ID": "__OpenWireRootUnit__.Arduino.Digital._Item5.DigitalInputPin"
+                }
+              ]
+            },
+            "+": "TArduinoDigitalMultiMerger"
+          },
+          "*": [],
+          "Type": "Component",
+          "Y": 288
+        },
+        {
+          "X": 608,
+          "Name": "CharToText1",
+          "Instance": {
+            "OutputPin": {
+              "SinkPins": [
+                {
+                  "Name": "__OpenWireRootUnit__.Arduino.Serial.Item[ 0 ] (9600).InputPin",
+                  "ID": "__OpenWireRootUnit__.Arduino.Serial._Item0.InputPin"
+                },
+                {
+                  "ID": "__OpenWireRootUnit__.CompareValue1.InputPin"
+                },
+                {
+                  "ID": "__OpenWireRootUnit__.CompareValue2.InputPin"
+                }
+              ]
+            },
+            "InputPin": {
+              "SourcePin": {
+                "Name": "__OpenWireRootUnit__.Arduino.Modules.WiFi.Sockets.TCP Server.OutputPin",
+                "ID": "__OpenWireRootUnit__.Arduino.Modules._Item0.Sockets._Item0.OutputPin"
+              }
+            },
+            "+": "TArduinoCharToText"
+          },
+          "*": [],
+          "Type": "Component",
+          "Y": 304
+        },
+        {
+          "X": 784,
+          "Name": "CompareValue1",
+          "Instance": {
+            "Value": "LIGA",
+            "InputPin": {
+              "SourcePin": {
+                "ID": "__OpenWireRootUnit__.CharToText1.OutputPin"
+              }
+            },
+            "+": "TArduinoTextCompareValue",
+            "OutputPin": {
+              "SinkPins": [
+                {
+                  "ID": "__OpenWireRootUnit__.DigitalValue1.ClockInputPin"
+                }
+              ]
+            },
+            "IgnoreCase": true
+          },
+          "*": [],
+          "Type": "Component",
+          "Y": 288
+        },
+        {
+          "X": 784,
+          "Name": "CompareValue2",
+          "Instance": {
+            "Value": "DESLIGA",
+            "InputPin": {
+              "SourcePin": {
+                "ID": "__OpenWireRootUnit__.CharToText1.OutputPin"
+              }
+            },
+            "+": "TArduinoTextCompareValue",
+            "OutputPin": {
+              "SinkPins": [
+                {
+                  "ID": "__OpenWireRootUnit__.DigitalValue2.ClockInputPin"
+                }
+              ]
+            },
+            "IgnoreCase": true
+          },
+          "*": [],
+          "Type": "Component",
+          "Y": 336
+        }
+      ]
+    }
+  ]
+}
