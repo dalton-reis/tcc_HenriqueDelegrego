@@ -122,4 +122,7 @@ Prazo de uma semana para terminar programação do cenário válvula.
 ## 2023-05-09 - 10:05
 
 <video src="valvulas.mp4" controls title="Title"></video>  
-![Vávula](valvulas.mp4)  
+
+## 2023-06-22 - 16:59
+
+<video src="2023-06-22_CenarioBug.mp4" controls title="Title"></video>
