@@ -1,1 +1,8 @@
 # Válvula
+Válvulas são dispositivos eletrônicos que foram amplamente utilizados nos primórdios da tecnologia eletrônica antes do surgimento dos componentes de semicondutores. Elas são recipientes de vidro ou metal que abrigam diversos componentes, como eletrodos, em um ambiente selado a vácuo para eliminar quaisquer moléculas de gás ou ar que possam interferir no funcionamento do dispositivo.
+
+As válvulas foram utilizadas em diversas aplicações, incluindo computadores antigos, rádios, televisões, amplificadores e outros equipamentos eletrônicos. No entanto, seu uso diminuiu com o desenvolvimento de componentes menores, mais rápidos e que consomem menos energia. Apesar de sua obsolescência na maioria dos eletrônicos modernos, as válvulas ainda encontram aplicações específicas em campos como amplificadores de alta potência, equipamentos de áudio especializados e entre entusiastas de áudio vintage.
+
+O cenário desenvolvido a partir desse componente é o de um circuito eletrônico que não está funcionando devido a um “bug”, um vídeo ancorado ao marcador mostrando um código com problemas é exibido, o usuário deve então tirar a válvula que está conectada ao circuito. Ao remover a válvula, um besouro virtual aparece embaixo dela e começa a voar. Ao reconectar a válvula um código funcional aparece onde o vídeo estava anteriormente e uma mensagem aparece agradecendo o usuário por ter resolvido o “bug”, que em inglês significa inseto.
+
+O cenário desenvolvido apresenta uma imersão adicional com o acendimento de um LED por mensagem TCP/IP usando o microcontrolador ESP8266, essa é uma placa de baixo custo com capacidade de conexão Wi-Fi que ganhou grande popularidade no mundo do desenvolvimento da Internet das Coisas (IoT).
