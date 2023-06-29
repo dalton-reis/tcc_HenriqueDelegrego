@@ -126,3 +126,7 @@ Prazo de uma semana para terminar programação do cenário válvula.
 ## 2023-06-22 - 16:59
 
 <video src="2023-06-22_CenarioBug.mp4" controls title="Title"></video>
+
+## 2023-06-28 - 21:11
+
+[tcc_bcc_2023_1_HenriqueDelegrego-VF.pdf](tcc_bcc_2023_1_HenriqueDelegrego-VF.pdf)  
