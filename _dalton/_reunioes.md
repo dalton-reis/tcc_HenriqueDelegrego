@@ -130,3 +130,12 @@ Prazo de uma semana para terminar programação do cenário válvula.
 ## 2023-06-28 - 21:11
 
 [tcc_bcc_2023_1_HenriqueDelegrego-VF.pdf](tcc_bcc_2023_1_HenriqueDelegrego-VF.pdf)  
+
+## 2023-07-04 - 14:44
+
+Prévia da defesa do TCC.  
+
+Dois correlatos não usaram smartphone ... eram trabalhos mais antigos.  
+
+15:12 -> 28 minutos.  
+
