@@ -139,6 +139,14 @@ Dois correlatos não usaram smartphone ... eram trabalhos mais antigos.
 
 15:12 -> 28 minutos.  
 
-## 2023-07-06 - 10:37 Maurício revisão
+----
+
+## 2023-07-07 - 14:05 Defesa
 
 [Artigo_2023-07-06_Revisao_Mauricio](Artigo_2023-07-06_Revisao_Mauricio.docx)  
+
+### Miguel
+
+Artigo_2023-07-06_Revisao_Miguel](Artigo_2023-07-06_Revisao_Miguel.pdf)  
+
+### Aurelio
