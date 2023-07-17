@@ -1,0 +1,19 @@
+Tutorial hARdware - Henrique Delegrego
+
+==================================================
+
+Instalar Softwares necessários
+
+Unity Hub
+
+Unity v2021.3.20f1 (com build para Android)
+==================================================
+
+Configuração Unity HUB e projeto
+
+No Unity Hub, adicionar a pasta de fontes como pasta de um projeto
+
+Abrir o projeto
+
+2.1 O Unity deve baixar as dependências (a primeira vez demora mais)
+==================================================
