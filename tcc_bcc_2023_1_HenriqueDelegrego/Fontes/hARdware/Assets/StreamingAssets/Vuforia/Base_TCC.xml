@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Valvula" size="200.000000 266.666656" />
+    <ImageTarget name="Pedras" size="200.000000 140.000000" />
+    <ImageTarget name="Motherboard_Inteira" size="200.000000 381.818176" />
+  </Tracking>
+</QCARConfig>
